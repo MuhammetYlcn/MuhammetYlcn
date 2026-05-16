@@ -10,6 +10,27 @@ Marmara Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Bir sistemi doğ
 * 💾 **Veri Tabanı & Bulut Yönetimi:** İlişkisel veri modellerinin kurgulanması ve sorgu optimizasyonları süreçlerinde **MySQL** ve **SQLite** mimarilerini aktif olarak kullanıyor, projelerimi **Google Cloud Platform (GCP)** ve **Firebase** servisleriyle entegre ediyorum.
 * 🏎️ **Otonom Sistemler & Yapay Zeka (TEKNOFEST Robotaksi):** Yarışma kapsamında, çevre algılama ve nesne tespiti için derin öğrenme modellerinin eğitilmesi (YOLO), **ROS 2** üzerinde koşan otonom karar alma mekanizmalarının kurgulanması süreçlerini yürütüyorum. Özellikle HD haritalama süreçlerinde **Lanelet2** altyapısının entegrasyonu ve bu dijital yol ağları üzerinde en kısa/en optimize rotanın dinamik olarak hesaplanması için **A* (A-Star) Arama Algoritması** tabanlı yol bulma (Pathfinding) çözümleri üzerine çalışıyorum.
 
+
+---
+## 🗂️ Öne Çıkan Projeler
+
+### 🏟️ Spor Takip Otomasyonu
+Trendyol Süper Lig maçlarını ve oyuncu istatistiklerini gerçek zamanlı takip eden masaüstü uygulaması.
+All Sports API entegrasyonu, JavaFX arayüzü ve SQLite ile geliştirildi.
+`Java` `JavaFX` `SQLite` `REST API`
+
+---
+
+### 🏭 Sanayi Otomasyonu *(Devam Ediyor)*
+Full-stack mobil uygulama.
+`Flutter` `Spring Boot` `Firebase Auth` `MySQL`
+
+---
+
+### 🌐 İstanbul Hız Kurye — [istanbulhızkurye.com](https://istanbulhızkurye.com)
+Responsive mimari ile geliştirilmiş, aktif yayında kurumsal kurye web projesi.
+`HTML/CSS` `JavaScript`
+
 ---
 
 ## 💻 Teknolojiler ve Araçlar
@@ -41,26 +62,7 @@ Marmara Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Bir sistemi doğ
 </p>
 
 ---
-## 🗂️ Öne Çıkan Projeler
 
-### 🏟️ Spor Takip Otomasyonu
-Trendyol Süper Lig maçlarını ve oyuncu istatistiklerini gerçek zamanlı takip eden masaüstü uygulaması.
-All Sports API entegrasyonu, JavaFX arayüzü ve SQLite ile geliştirildi.
-`Java` `JavaFX` `SQLite` `REST API`
-
----
-
-### 🏭 Sanayi Otomasyonu *(Devam Ediyor)*
-Full-stack mobil uygulama.
-`Flutter` `Spring Boot` `Firebase Auth` `MySQL`
-
----
-
-### 🌐 İstanbul Hız Kurye — [istanbulhızkurye.com](https://istanbulhızkurye.com)
-Responsive mimari ile geliştirilmiş, aktif yayında kurumsal kurye web projesi.
-`HTML/CSS` `JavaScript`
-
----
 ## 📊 İstatistiklerim
 
 <p align="center">
