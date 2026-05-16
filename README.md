@@ -45,7 +45,7 @@ Marmara Üniversitesi **Bilgisayar Mühendisliği** öğrencisiyim. Çalışmala
 ## 📊 İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammetYlcn&show_icons=true&theme=dark&locale=tr&hide_border=true&icon_color=00FF7F&title_color=00FF7F&text_color=ffffff&bg_color=0d1117" alt="Muhammet Ali GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MuhammetYlcn&show_icons=true&theme=dark&locale=tr&hide_border=true&icon_color=00FF7F&title_color=00FF7F&text_color=ffffff&bg_color=0d1117" alt="Muhammet Ali GitHub Stats" />
 </p>
 
 <p align="center">
