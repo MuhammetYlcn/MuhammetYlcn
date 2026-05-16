@@ -45,17 +45,17 @@ Marmara Üniversitesi **Bilgisayar Mühendisliği** öğrencisiyim. Çalışmala
 ## 📊 İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammetYlcn&show_icons=true&theme=dark&locale=tr&hide_border=true&icon_color=00FF7F&title_color=00FF7F&bg_color=0d1117" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammetYlcn&show_icons=true&theme=dark&locale=tr&hide_border=true&icon_color=00FF7F&title_color=00FF7F&text_color=ffffff&bg_color=0d1117" alt="Muhammet Ali GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammetYlcn&theme=dark&hide_border=true&stroke=00FF7F&background=0d1117&ring=00FF7F&fire=00FF7F&currStreakNum=ffffff" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammetYlcn&theme=dark&hide_border=true&stroke=00FF7F&background=0d1117&ring=00FF7F&fire=00FF7F&currStreakNum=ffffff" alt="Muhammet Ali GitHub Streak" />
 </p>
 
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/KULLANICI_ADIN">
+  <a href="https://www.linkedin.com/in/muhammet-ali-yalcin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
