@@ -56,7 +56,7 @@ Full-stack mobil uygulama.
 
 ---
 
-### 🌐 İstanbul Hız Kurye — [istanbulhizkurye.com](https://istanbulhizkurye.com)
+### 🌐 İstanbul Hız Kurye — [istanbulhızkurye.com](https://istanbulhızkurye.com)
 Responsive mimari ile geliştirilmiş, aktif yayında kurumsal kurye web projesi.
 `HTML/CSS` `JavaScript`
 
