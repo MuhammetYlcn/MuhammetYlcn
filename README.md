@@ -63,6 +63,11 @@ Responsive mimari ile geliştirilmiş, aktif yayında kurumsal kurye web projesi
 
 ---
 
+<div align="center">
+  <img src="https://img.shields.io/badge/TEKNOFEST_2025-Robotaksi_Yarışması-00FF7F?style=for-the-badge" alt="teknofest" />
+</div>
+
+---
 ## 📊 İstatistiklerim
 
 <p align="center">
