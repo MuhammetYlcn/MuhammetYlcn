@@ -4,7 +4,7 @@
 
 ## 🚀 Hakkımda
 
-Marmara Üniversitesi **Bilgisayar Mühendisliği** öğrencisiyim. Çalışmalarımı kurumsal arka plan sistem mimarileri (Backend Architecture), veri tabanı sistemleri optimizasyonu, temiz kod (Clean Code) prensipleri ve otonom araç algoritmaları üzerine yoğunlaştırıyorum. Geliştirdiğim yazılımlarda ölçeklenebilirlik, veri tutarlılığı ve yüksek performans standartlarını ön planda tutarım.
+Marmara Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Bir sistemi doğru kurmak, onu sonradan düzeltmekten her zaman daha az maliyetlidir — çalışmalarımı bu anlayış üzerine inşa ediyorum. Backend mimarisi ve veritabanı optimizasyonu ilgimi çekiyor çünkü yanlış bir tasarım kararının nasıl büyüdüğünü gördüm. TEKNOFEST Robotaksi projesinde ise yazılımın fiziksel dünyayla kesiştiği noktada çalışıyorum; bu, her kararın test edilebilir ve ölçülebilir olmasını zorunlu kılıyor.
 
 * ⚙️ **Backend & Sistem Mimarisi:** **Spring Boot (Java)** tabanlı mikroservis ve monolitik yapılar geliştiriyor, SOLID prensiplerine ve katmanlı mimari tasarımlarına bağlı temiz kodlar yazıyorum.
 * 💾 **Veri Tabanı & Bulut Yönetimi:** İlişkisel veri modellerinin kurgulanması ve sorgu optimizasyonları süreçlerinde **MySQL** ve **SQLite** mimarilerini aktif olarak kullanıyor, projelerimi **Google Cloud Platform (GCP)** ve **Firebase** servisleriyle entegre ediyorum.
@@ -41,7 +41,26 @@ Marmara Üniversitesi **Bilgisayar Mühendisliği** öğrencisiyim. Çalışmala
 </p>
 
 ---
+## 🗂️ Öne Çıkan Projeler
 
+### 🏟️ Spor Takip Otomasyonu
+Trendyol Süper Lig maçlarını ve oyuncu istatistiklerini gerçek zamanlı takip eden masaüstü uygulaması.
+All Sports API entegrasyonu, JavaFX arayüzü ve SQLite ile geliştirildi.
+`Java` `JavaFX` `SQLite` `REST API`
+
+---
+
+### 🏭 Sanayi Otomasyonu *(Devam Ediyor)*
+Full-stack mobil uygulama.
+`Flutter` `Spring Boot` `Firebase Auth` `MySQL`
+
+---
+
+### 🌐 İstanbul Hız Kurye — [istanbulhizkurye.com](https://istanbulhizkurye.com)
+Responsive mimari ile geliştirilmiş, aktif yayında kurumsal kurye web projesi.
+`HTML/CSS` `JavaScript`
+
+---
 ## 📊 İstatistiklerim
 
 <p align="center">
