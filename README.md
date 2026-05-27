@@ -1,6 +1,8 @@
-3 — Custom SVG (tam kontrol, animasyonlu)
 <div align="center">
-  <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Muhammet%20Ali%20Yal%C3%A7%C4%B1n&width=800&height=150" />
+  <h1 style="font-size:3em; letter-spacing: 0.1em;">
+    Muhammet Ali Yalçın
+  </h1>
+  <p><code>Backend Developer · Marmara CSE</code></p>
 </div>
 
 ## Hakkımda
