@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammet%20Ali%20Yal%C3%A7%C4%B1n&fontSize=42&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=220&section=header&text=Muhammet%20Ali%20Yal%C3%A7%C4%B1n&fontSize=42&fontColor=000000&animation=fadeIn&desc=Backend%20Developer&descSize=20&descAlignY=72&descAlign=50" />
 </div>
 
 ## Hakkımda
