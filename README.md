@@ -64,7 +64,7 @@ Responsive mimari ile geliştirilmiş, aktif yayında kurumsal kurye web projesi
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/TEKNOFEST_2025-Robotaksi_Yarışması-00FF7F?style=for-the-badge" alt="teknofest" />
+  <img src="https://img.shields.io/badge/TEKNOFEST_2025-Robotaksi_Yarışması-2ECC71?style=for-the-badge" alt="teknofest" />
 </div>
 
 ---
@@ -72,11 +72,11 @@ Responsive mimari ile geliştirilmiş, aktif yayında kurumsal kurye web projesi
 ## 📊 İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MuhammetYlcn&show_icons=true&theme=dark&locale=tr&hide_border=true&icon_color=00FF7F&title_color=ffffff&bg_color=0d1117" alt="Muhammet Ali GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MuhammetYlcn&show_icons=true&theme=dark&locale=tr&hide_border=true&icon_color=2ECC71&title_color=ffffff&bg_color=0d1117" alt="Muhammet Ali GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammetYlcn&theme=dark&hide_border=true&stroke=00FF7F&background=0d1117&ring=00FF7F&fire=00FF7F" alt="Muhammet Ali GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammetYlcn&theme=dark&hide_border=true&stroke=2ECC71&background=0d1117&ring=2ECC71&fire=2ECC71" alt="Muhammet Ali GitHub Streak" />
 </p>
 
 ---
