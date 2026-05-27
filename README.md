@@ -2,14 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=200&section=header&text=Merhaba,%20Ben%20Muhammet%20Ali%20👋&fontSize=40&animation=fadeIn&fontColor=000000" alt="header" />
 </div>
 
-## 🚀 Hakkımda
+## Hakkımda
 
-Marmara Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Bir sistemi doğru kurmak, onu sonradan düzeltmekten her zaman daha az maliyetlidir — çalışmalarımı bu anlayış üzerine inşa ediyorum. Backend mimarisi ve veritabanı optimizasyonu ilgimi çekiyor çünkü yanlış bir tasarım kararının nasıl büyüdüğünü gördüm. TEKNOFEST Robotaksi projesinde ise yazılımın fiziksel dünyayla kesiştiği noktada çalışıyorum; bu, her kararın test edilebilir ve ölçülebilir olmasını zorunlu kılıyor.
+Marmara Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.
 
-* ⚙️ **Backend & Sistem Mimarisi:** **Spring Boot (Java)** tabanlı mikroservis ve monolitik yapılar geliştiriyor, SOLID prensiplerine ve katmanlı mimari tasarımlarına bağlı temiz kodlar yazıyorum.
-* 💾 **Veri Tabanı & Bulut Yönetimi:** İlişkisel veri modellerinin kurgulanması ve sorgu optimizasyonları süreçlerinde **MySQL** ve **SQLite** mimarilerini aktif olarak kullanıyor, projelerimi **Google Cloud Platform (GCP)** ve **Firebase** servisleriyle entegre ediyorum.
-* 🏎️ **Otonom Sistemler & Yapay Zeka (TEKNOFEST Robotaksi):** Yarışma kapsamında, çevre algılama ve nesne tespiti için derin öğrenme modellerinin eğitilmesi (YOLO), **ROS 2** üzerinde koşan otonom karar alma mekanizmalarının kurgulanması süreçlerini yürütüyorum. Özellikle HD haritalama süreçlerinde **Lanelet2** altyapısının entegrasyonu ve bu dijital yol ağları üzerinde en kısa/en optimize rotanın dinamik olarak hesaplanması için **A* (A-Star) Arama Algoritması** tabanlı yol bulma (Pathfinding) çözümleri üzerine çalışıyorum.
+Backend ve veritabanı tasarımı ilgimi çekiyor — yanlış bir mimari kararın nasıl büyüdüğünü görünce baştan doğru yapmak takıntım haline geldi. Spring Boot ile mikroservis ve monolitik yapılar kuruyorum, MySQL/SQLite üzerinde veri modeli ve sorgu optimizasyonu yapıyorum.
 
+TEKNOFEST Robotaksi ekibinde yazılım geliştiriyorum. YOLO ile nesne tespiti, ROS 2 üzerinde karar mekanizmaları, Lanelet2 + A* ile rota planlama — teorinin fiziksel dünyayla buluştuğu alan burası ve hataların gerçek sonuçları oluyor.
 
 ---
 ## 🗂️ Öne Çıkan Projeler
