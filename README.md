@@ -1,5 +1,6 @@
+3 — Custom SVG (tam kontrol, animasyonlu)
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=00FF7F&height=200&text=Muhammet%20Ali%20Yal%C3%A7%C4%B1n&fontSize=40&fontColor=000000" />
+  <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Muhammet%20Ali%20Yal%C3%A7%C4%B1n&width=800&height=150" />
 </div>
 
 ## Hakkımda
