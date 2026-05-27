@@ -72,7 +72,7 @@ Responsive mimari ile geliştirilmiş, aktif yayında kurumsal kurye web projesi
 ## 📊 İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammetYlcn&show_icons=true&theme=dark&locale=tr&hide_border=true&icon_color=2ECC71&title_color=ffffff&bg_color=0d1117&rank_color=2ECC71" alt="Muhammet Ali GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MuhammetYlcn&show_icons=true&theme=dark&locale=tr&hide_border=true&icon_color=2ECC71&title_color=ffffff&bg_color=0d1117&rank_color=2ECC71" alt="Muhammet Ali GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammetYlcn&theme=dark&hide_border=true&stroke=2ECC71&background=0d1117&ring=2ECC71&fire=2ECC71" alt="Muhammet Ali GitHub Streak" />
