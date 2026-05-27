@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF7F&background=0D111700&center=true&vCenter=true&width=500&height=100&lines=Muhammet+Ali+Yal%C3%A7%C4%B1n" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=2ECC71&background=00000000&center=true&vCenter=true&width=500&height=100&lines=Muhammet+Ali+Yal%C3%A7%C4%B1n;Backend+Developer" />
 </div>
 
 ## Hakkımda
