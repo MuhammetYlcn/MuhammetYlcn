@@ -72,11 +72,11 @@ Responsive mimari ile geliştirilmiş, aktif yayında kurumsal kurye web projesi
 ## 📊 İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MuhammetYlcn&show_icons=true&theme=dark&locale=tr&hide_border=true&icon_color=2ECC71&title_color=ffffff&bg_color=0d1117" alt="Muhammet Ali GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MuhammetYlcn&show_icons=true&theme=dark&locale=tr&hide_border=true&icon_color=2ECC71&title_color=ffffff&bg_color=2ECC71" alt="Muhammet Ali GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=MuhammetYlcn&theme=dark&hide_border=true&stroke=2ECC71&background=0d1117&ring=2ECC71&fire=2ECC71](https://streak-stats.demolab.com/?user=MuhammetYlcn&theme=dark&hide_border=true&stroke=2ECC71&background=0d1117&ring=2ECC71&fire=2ECC71&timezone=Europe%2FIstanbul)" alt="Muhammet Ali GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammetYlcn&theme=dark&hide_border=true&stroke=2ECC71&background=0d1117&ring=2ECC71&fire=2ECC71" alt="Muhammet Ali GitHub Streak" />
 </p>
 
 ---
