@@ -76,7 +76,7 @@ Responsive mimari ile geliştirilmiş, aktif yayında kurumsal kurye web projesi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammetYlcn&theme=dark&hide_border=true&stroke=2ECC71&background=0d1117&ring=2ECC71&fire=2ECC71" alt="Muhammet Ali GitHub Streak" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=MuhammetYlcn&theme=dark&hide_border=true&stroke=2ECC71&background=0d1117&ring=2ECC71&fire=2ECC71](https://streak-stats.demolab.com/?user=MuhammetYlcn&theme=dark&hide_border=true&stroke=2ECC71&background=0d1117&ring=2ECC71&fire=2ECC71&timezone=Europe%2FIstanbul)" alt="Muhammet Ali GitHub Streak" />
 </p>
 
 ---
