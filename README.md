@@ -1,8 +1,5 @@
 <div align="center">
-  <h1 style="font-size:3em; letter-spacing: 0.1em;">
-    Muhammet Ali Yalçın
-  </h1>
-  <p><code>Backend Developer · Marmara CSE</code></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF7F&background=0D111700&center=true&vCenter=true&width=500&height=100&lines=Muhammet+Ali+Yal%C3%A7%C4%B1n" />
 </div>
 
 ## Hakkımda
