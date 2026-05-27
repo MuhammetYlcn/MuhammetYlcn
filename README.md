@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=200&section=header&text=Merhaba,%20Ben%20Muhammet%20Ali%20👋&fontSize=40&animation=fadeIn&fontColor=000000" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=220&section=header&text=$%20./muhammet_ali%20--init&fontSize=36&animation=fadeIn&fontColor=000000&desc=>%20Backend%20Dev%20|%20Robotaksi%20Yazılımcısı&descSize=18&descAlignY=72&descAlign=50" alt="header" />
 </div>
 
 ## Hakkımda
